@@ -72,3 +72,39 @@ Sistem operasi mengelola komunikasi dengan perangkat keras (I/O devices). Ini me
 - **Device Drivers**: Perangkat lunak yang memungkinkan sistem operasi berkomunikasi dengan perangkat keras.
 - **Buffering**: Proses menampung data sementara di memori untuk meningkatkan kecepatan proses I/O.
 - **Spooling**: Penyimpanan sementara data dalam antrian untuk diproses pada perangkat I/O, seperti printer.
+## 1.9 Keamanan dan Akses
+Keamanan sistem operasi berfokus pada perlindungan data dan sumber daya dari akses yang tidak sah. Beberapa mekanisme yang digunakan adalah:
+
+- **Authentication**: Verifikasi identitas pengguna melalui username dan password.
+- **Authorization**: Menentukan hak akses pengguna terhadap file dan sumber daya sistem.
+- **Encryption**: Pengamanan data dengan mengubahnya menjadi bentuk yang tidak dapat dibaca tanpa kunci tertentu.
+
+---
+
+## 1.10 Virtualisasi
+Virtualisasi adalah teknik untuk menjalankan beberapa sistem operasi atau instansi perangkat lunak pada satu mesin fisik. Virtualisasi memungkinkan:
+
+- **Virtual Machines (VM)**: Membuat lingkungan sistem operasi yang terisolasi pada hardware yang sama.
+- **Hypervisor**: Perangkat lunak yang mengelola dan mengatur virtualisasi.
+
+---
+
+## 1.11 Sistem Operasi Jaringan
+Sistem operasi jaringan adalah sistem yang dirancang untuk mendukung komunikasi dan pengelolaan sumber daya dalam jaringan komputer. Beberapa fitur utama adalah:
+
+- **File Sharing**: Membagikan file antar komputer dalam jaringan.
+- **Printer Sharing**: Mengakses printer yang terhubung ke jaringan.
+- **Remote Access**: Mengakses sistem dari jarak jauh melalui jaringan.
+
+Contoh sistem operasi jaringan: **Windows Server**, **Linux (Ubuntu Server)**.
+
+---
+
+## 1.12 Sistem Operasi dan Cloud Computing
+Dengan perkembangan teknologi cloud, sistem operasi modern mendukung lingkungan virtual yang dapat diakses melalui internet. Fitur-fitur utama terkait cloud computing adalah:
+
+- **Cloud Storage**: Penyimpanan data yang dapat diakses dari mana saja.
+- **Virtualization**: Pembagian sumber daya secara efisien untuk banyak pengguna.
+- **Elasticity**: Penyesuaian kapasitas komputasi sesuai kebutuhan secara dinamis.
+
+Beberapa contoh sistem operasi yang digunakan dalam cloud computing: **VMware**, **Google Cloud OS**, **Amazon EC2**.
